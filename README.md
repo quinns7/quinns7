@@ -1,5 +1,5 @@
 - Hi, I’m Sophie Quinn! I am...
-- A member of the Carleton College class of 2025, I am majoring in Computer Science and minoring in German and History.
+- A member of the Carleton College class of 2025, I am majoring in Computer Science and minoring in German and History with an excellent academic record.
 - Passionate about using Computer Science to effect real change in the world and in own my communities. I love a good challenge, so the intersection of finding ways to effect positive change with the problem solving inherent in CS strongly appeals to me.
 - Currently learning advanced tools and strategies for software design. Specifically, I am working with a group of fellow Carls to create a marketplace for Carleton College students to buy and sell items to each other. 
 - Simultaneously improving my communication, teamwork, and critical thinking skills by engaging in courses across the curricular spectrum.
