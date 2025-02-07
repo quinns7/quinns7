@@ -8,7 +8,7 @@ Hi, I’m Sophie Quinn! I am...
 - Outside of class and CS projects, I enjoy dancing, playing ultimate frisbee, reading, and hanging out with my friends. I'm also a fiend for the outdoors, so catch me in the Arboretum at Carleton or planning my next adventure somewhere new.
 - How to reach me:
   - quinns AT carleton.edu
-  - Or checkout my [LinkedIn]: [https://www.linkedin.com/in/sophie-quinn-8a3a8b260/]
+  - Or checkout my [LinkedIn](https://www.linkedin.com/in/sophie-quinn-8a3a8b260/)
 
 <!---
 quinns7/quinns7 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
